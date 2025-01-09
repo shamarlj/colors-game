@@ -3,7 +3,7 @@ black="000 000 000"
 red="111 000 000"
 aqua="000 111 110"
 lightblue="000 111 111"
-magenta="111 000 111"
+magenta="11magent1 000 111"
 yellow="111 111 011"
 green= "000 111 000"
 purple="011 000 111"
@@ -64,14 +64,14 @@ while True:
 
 
       
-    elif rng_COLOR==jaiden and input("input colors ") == "jaiden":
+    elif rng_COLOR==jaiden and input("input colors ") == "jayden":
             print("right👍🏿")
             score -=10020
 
             
     elif rng_COLOR==banna and input("input colors ") == "banna":
             print("right👍🏿")
-            score +=1
+            score +=1000000000000000000000000000000000000000000000000
 
 
     elif rng_COLOR==red and input("input colors ") == "red":
@@ -87,49 +87,54 @@ while True:
     elif rng_COLOR==lightblue and  input("input colors ") == "lightblue":
             print("right👍🏿")
             score +=1
+
     elif rng_COLOR==magenta and input("input colors ") == "magenta":
             print("฿Ɽ₳VØ👍🏿")
             score +=3
+
     elif rng_COLOR==yellow and  input("input colors ") == "yellow":
             print("ₐₘₐᶻᵢₙᴳ👍🏿")
-            score +=1  
+            score +=1
+             
     elif rng_COLOR==green and input("input colors ") == "green":
             print("ⳏⲉⲅ⳨ⲥⲧ👍🏿")
             score +=1
+
     elif rng_COLOR==purple and  input("input colors ") == "purple":
             print("ꝒƸⱤƑƇƬ👍🏿")
             score +=1
+
     elif rng_COLOR==grey and input("input colors ") == "grey":
             print("@ⲙⲁⲹⳕⲛⳋ👍🏿")
             score +=1
+
     elif rng_COLOR==darkpink and  input("input colors ") == "darkpink":
             print("𝒸ℴ𝓇𝓇ℯ𝒸𝓉👍🏿")
             score +=1
+
     elif rng_COLOR==orange and  input("input colors ") == "orange":
             print("c̶o̶r̶r̶e̶c̶t̶👍🏿")
             score +=1  
+
     elif rng_COLOR==lightpurple and input("input colors ") == "lightpurple":
             print("¢ðrrê¢†👍🏿")
             score +=1
+
     elif rng_COLOR==blue and input("input colors ") == "blue":
             print("ƇⰙⱤⱤƸƇƬ👍🏿")
             score +=1
+
     elif rng_COLOR==pantone and  input("input colors ") == "pantone":
             print("₵ØⱤⱤɆ₵₮👍🏿")
             score +=5
 
-
     elif rng_COLOR==darkgreen and  input("input colors ") == "darkgreen":
             print("w👍🏿")
+            score +=19
 
-
-            score +=1  
     elif rng_COLOR==teal and  input("input colors ") == "teal":
             print("ni₵E👍🏿")
-
-
             score +=1
-
 
     elif  rng_COLOR==darkpurple and  input("input colors ") == "darkpurple":
             print("ni₵E👍🏿")
@@ -138,27 +143,20 @@ while True:
 
     elif  rng_COLOR==aqua14 and  input("input colors ") == "aqua14":
             print("ni₵E👍🏿")
-            score +=9999
+            score +=99999
 
 
     elif  rng_COLOR==darkgrey and  input("input colors ") == "darkgrey":
             print("ni₵E👍🏿")
             score +=1
 
-
-
-
-
     elif  rng_COLOR== brown and  input("input colors ") == "brown":
             print("ni₵E👍🏿")
-            score +=1
-
-
- 
+            score +=10
 
     elif  rng_COLOR==navyblue and  input("input colors ") == "navyblue":
          print("ni₵E👍🏿")
-         score +=1
+         score +=15
 
 
 
