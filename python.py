@@ -53,7 +53,7 @@ while True:
 
     if rng_COLOR==black and input("input colors ") == "black":
             print("correct 😍")
-            score += 4
+            score += 5
 
 
 
@@ -71,7 +71,7 @@ while True:
             
     elif rng_COLOR==banna and input("input colors ") == "banna":
             print("right👍🏿")
-            score +=1000000000000000000000000000000000000000000000000
+            score +=1005040000826008002009000070410700000704030000909
 
 
     elif rng_COLOR==red and input("input colors ") == "red":
@@ -81,64 +81,64 @@ while True:
 
     elif rng_COLOR==aqua and input("input colors ") == "aqua":
             print("great👍🏿")
-            score +=10
+            score +=14
 
 
     elif rng_COLOR==lightblue and  input("input colors ") == "lightblue":
             print("right👍🏿")
-            score +=1
+            score +=2
 
     elif rng_COLOR==magenta and input("input colors ") == "magenta":
             print("฿Ɽ₳VØ👍🏿")
-            score +=3
+            score +=17
 
     elif rng_COLOR==yellow and  input("input colors ") == "yellow":
             print("ₐₘₐᶻᵢₙᴳ👍🏿")
-            score +=1
+            score +=65
              
     elif rng_COLOR==green and input("input colors ") == "green":
             print("ⳏⲉⲅ⳨ⲥⲧ👍🏿")
-            score +=1
+            score +=8
 
     elif rng_COLOR==purple and  input("input colors ") == "purple":
             print("ꝒƸⱤƑƇƬ👍🏿")
-            score +=1
+            score +=30
 
     elif rng_COLOR==grey and input("input colors ") == "grey":
             print("@ⲙⲁⲹⳕⲛⳋ👍🏿")
-            score +=1
+            score +=96
 
     elif rng_COLOR==darkpink and  input("input colors ") == "darkpink":
             print("𝒸ℴ𝓇𝓇ℯ𝒸𝓉👍🏿")
-            score +=1
+            score +=176
 
     elif rng_COLOR==orange and  input("input colors ") == "orange":
             print("c̶o̶r̶r̶e̶c̶t̶👍🏿")
-            score +=1  
+            score +=150
 
     elif rng_COLOR==lightpurple and input("input colors ") == "lightpurple":
             print("¢ðrrê¢†👍🏿")
-            score +=1
+            score +=199
 
     elif rng_COLOR==blue and input("input colors ") == "blue":
             print("ƇⰙⱤⱤƸƇƬ👍🏿")
-            score +=1
+            score +=10
 
     elif rng_COLOR==pantone and  input("input colors ") == "pantone":
             print("₵ØⱤⱤɆ₵₮👍🏿")
-            score +=5
+            score +=500
 
     elif rng_COLOR==darkgreen and  input("input colors ") == "darkgreen":
             print("w👍🏿")
-            score +=19
+            score +=195
 
     elif rng_COLOR==teal and  input("input colors ") == "teal":
             print("ni₵E👍🏿")
-            score +=1
+            score +=100
 
     elif  rng_COLOR==darkpurple and  input("input colors ") == "darkpurple":
             print("ni₵E👍🏿")
-            score +=1
+            score +=177
 
 
     elif  rng_COLOR==aqua14 and  input("input colors ") == "aqua14":
@@ -148,15 +148,15 @@ while True:
 
     elif  rng_COLOR==darkgrey and  input("input colors ") == "darkgrey":
             print("ni₵E👍🏿")
-            score +=1
+            score +=1000
 
     elif  rng_COLOR== brown and  input("input colors ") == "brown":
             print("ni₵E👍🏿")
-            score +=10
+            score +=10000
 
     elif  rng_COLOR==navyblue and  input("input colors ") == "navyblue":
          print("ni₵E👍🏿")
-         score +=15
+         score +=1500
 
 
 
@@ -164,12 +164,12 @@ while True:
 
     elif  rng_COLOR==lavender and  input("input colors ") == "lavender":
             print("ni₵E👍🏿")
-            score +=1
+            score +=1070
 
 
     elif  rng_COLOR==shamar and  input("input colors ") == "shamar":
             print("ni₵E👍🏿")
-            score +=14
+            score +=1424
 
 
 
@@ -187,7 +187,7 @@ while True:
     print("")
 
 
-    gamecontinue = input("Do you want to end the game?  y/n:     ")
+    gamecontinue = input("Do you want to end the game?  yes/no:     ")
 
 
     if gamecontinue == "y":
